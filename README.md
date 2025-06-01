@@ -1,36 +1,36 @@
 # 🛒 Vira E-Ticaret Uygulaması
 
 ### EN:  
-This repository contains a sample **E-Commerce mobile application** project developed with Flutter named **Vira**.
+Vira is a sample E-Commerce(mobile) application that I developed using Flutter.
 
-In this project, I built a dynamic and modern mobile shopping app interface, with features like product listing, cart management, favorites, and payment summary screens.
+In this project, I built a simple, modern, and dynamic mobile shopping application that includes product listing, adding to cart, adding to favorites, and a cart screen.
 
 What I learned & used:
 
-🎯 Effectively applied **Bloc architecture (Bloc, Event, State)** for state management  
-📦 Created **Repository** and **Service** layers for clean and scalable architecture  
-📡 Used **Dio** for REST API data fetch and send operations  
-❤️ Implemented **SQLite (sqflite)** for local favorites management  
-💸 Used **intl package** for price formatting  
-🧩 Structured my code into organized folders for each feature: `bloc`, `model`, `service`, `repository`, `view`  
-🎨 Built a modern, clean and professional UI  
+🎯 Applied Bloc architecture (Bloc, Event, State) for effective state management.
+📦 Created Repository and Service layers for a clean and scalable architecture.
+📡 Used Dio for performing REST API operations such as data fetching, sending, and deleting.
+❤️ Implemented SQLite (sqflite) for adding and managing favorite products locally.
+💸 Used the intl package for price formatting.
+🧩 Organized my code by creating a structured folder system for each feature module: bloc, model, service, repository, view.
+🎨 Designed a modern, clean, and professional UI interface.
 
 ---
 
 ### TR:  
-Bu repo, **Vira** adlı Flutter ile geliştirdiğim örnek bir **E-Ticaret mobil uygulama projesidir**.
+**Vira**, Flutter ile geliştirdiğim örnek bir **E-Ticaret mobil uygulama projesidir**.
 
-Bu projede, ürün listeleme, sepete ekleme, favorilere kaydetme ve ödeme özeti ekranlarını içeren modern ve dinamik bir mobil alışveriş uygulaması arayüzü oluşturdum.
+Bu projede, ürün listeleme, sepete ekleme, favorilere kaydetme ve sepet ekranlarını içeren basit, modern ve dinamik bir mobil alışveriş uygulaması geliştirdim.
 
 Öğrendiklerim ve kullandıklarım:
 
-🎯 **Bloc mimarisi (Bloc, Event, State)** ile state yönetimini uyguladım  
-📦 Temiz ve ölçeklenebilir yapı için **Repository** ve **Service** katmanları oluşturdum  
-📡 **Dio** ile REST API üzerinden veri çekme ve gönderme işlemleri gerçekleştirdim  
-❤️ **SQLite (sqflite)** ile favorilere ekleme ve yönetme işlemlerini yaptım  
-💸 **intl paketi** ile fiyat formatlama işlemlerini düzenledim  
-🧩 Her özellik için `bloc`, `model`, `service`, `repository`, `view` klasör yapısı oluşturarak düzenli kod geliştirdim  
-🎨 Modern, sade ve profesyonel bir UI arayüz tasarladım  
+🎯 **Bloc mimarisi (Bloc, Event, State)** ile state yönetimini uyguladım.  
+📦 Temiz ve ölçeklenebilir yapı için **Repository** ve **Service** katmanları oluşturdum.  
+📡 **Dio** ile REST API üzerinden veri çekme ve gönderme, silme işlemleri gerçekleştirdim.  
+❤️ **SQLite (sqflite)** ile favorilere ekleme ve yönetme işlemlerini yaptım.  
+💸 **intl paketi** ile fiyat formatlama işlemini gerçekleştirdim.  
+🧩 Her modül için `bloc`, `model`, `service`, `repository`, `view` klasör yapısı oluşturarak düzenli kod geliştirdim.  
+🎨 Modern, sade ve profesyonel bir UI arayüz tasarladım.  
 
 ---
 
