@@ -7,13 +7,13 @@ In this project, I built a simple, modern, and dynamic mobile shopping applicati
 
 What I learned & used:
 
-🎯 Applied Bloc architecture (Bloc, Event, State) for effective state management.
-📦 Created Repository and Service layers for a clean and scalable architecture.
-📡 Used Dio for performing REST API operations such as data fetching, sending, and deleting.
-❤️ Implemented SQLite (sqflite) for adding and managing favorite products locally.
-💸 Used the intl package for price formatting.
-🧩 Organized my code by creating a structured folder system for each feature module: bloc, model, service, repository, view.
-🎨 Designed a modern, clean, and professional UI interface.
+- 🎯 Applied **Bloc architecture (Bloc, Event, State)** for effective state management.
+- 📦 Created **Repository and Service layers** for a clean and scalable architecture.
+- 📡 Used **Dio** for performing REST API operations such as data fetching, sending, and deleting.
+- ❤️ Implemented **SQLite (sqflite)** for adding and managing favorite products locally.
+- 💸 Used the **intl package** for price formatting.
+- 🧩 Organized my code by creating a structured folder system for each feature module: bloc, model, service, repository, view.
+- 🎨 Designed a modern, clean, and professional UI interface.
 
 ---
 
@@ -24,13 +24,13 @@ Bu projede, ürün listeleme, sepete ekleme, favorilere kaydetme ve sepet ekranl
 
 Öğrendiklerim ve kullandıklarım:
 
-🎯 **Bloc mimarisi (Bloc, Event, State)** ile state yönetimini uyguladım.  
-📦 Temiz ve ölçeklenebilir yapı için **Repository** ve **Service** katmanları oluşturdum.  
-📡 **Dio** ile REST API üzerinden veri çekme ve gönderme, silme işlemleri gerçekleştirdim.  
-❤️ **SQLite (sqflite)** ile favorilere ekleme ve yönetme işlemlerini yaptım.  
-💸 **intl paketi** ile fiyat formatlama işlemini gerçekleştirdim.  
-🧩 Her modül için `bloc`, `model`, `service`, `repository`, `view` klasör yapısı oluşturarak düzenli kod geliştirdim.  
-🎨 Modern, sade ve profesyonel bir UI arayüz tasarladım.  
+- 🎯 **Bloc mimarisi (Bloc, Event, State)** ile state yönetimini uyguladım.  
+- 📦 Temiz ve ölçeklenebilir yapı için **Repository** ve **Service** katmanları oluşturdum.  
+- 📡 **Dio** ile REST API üzerinden veri çekme ve gönderme, silme işlemleri gerçekleştirdim.  
+- ❤️ **SQLite (sqflite)** ile favorilere ekleme ve yönetme işlemlerini yaptım.  
+- 💸 **intl paketi** ile fiyat formatlama işlemini gerçekleştirdim.  
+- 🧩 Her modül için `bloc`, `model`, `service`, `repository`, `view` klasör yapısı oluşturarak düzenli kod geliştirdim.  
+- 🎨 Modern, sade ve profesyonel bir UI arayüz tasarladım.  
 
 ---
 
